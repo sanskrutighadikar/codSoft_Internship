@@ -1,4 +1,4 @@
-# codSoft_Internship
+# CodSoft_Internship
 Welcome to the CodSoft Java Development Internship repository! This repository contains the tasks I performed during my 1-month internship journey.
 
 Tasks Overview:
